@@ -1,0 +1,13 @@
+﻿{
+  "ID": "4cd43bd4f79a4fb5925e9cb8b2eed75c",
+  "ActionKeyword": "tw",
+  "Name": "TailwindCSS",
+  "Description": "Search TailwindCSS docs",
+  "Author": "skttl",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/skttl/Wox.Plugin.TailwindCss",
+  "ExecuteFileName": "Wox.Plugin.TailwindCss.dll",
+  "IcoPath": "tailwind.png"
+}
+
